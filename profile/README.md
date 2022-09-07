@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Visit us at www.bdq.dk
+
 <!--
 
 **Here are some ideas to get you started:**
