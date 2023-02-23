@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Visit us at www.bdq.dk
+Visit us at www.biq.dk
+
+![BiQ](https://biq.dk/wp-content/uploads/2023/01/BiQ_logo_tagline_pos_rgb.svg)
 
 <!--
 
