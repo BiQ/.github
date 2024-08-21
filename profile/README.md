@@ -2,7 +2,7 @@
 
 Visit us at www.biq.dk
 
-<img src="https://biq.dk/wp-content/uploads/2023/01/BiQ_logo_tagline_pos_rgb.svg" width="50%"></img>
+<img src="BiQ_logo_tagline_pos_rgb.svg" width="50%"></img>
 
 <!--
 
